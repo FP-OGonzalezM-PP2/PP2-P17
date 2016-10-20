@@ -50,6 +50,6 @@ public class PP2P17 {
         return d;
     }
     public static void Mostrar(int d){
-        System.out.println("El divisor más alto de los 3 números es " +d);
+        System.out.println("El divisor más alto de los 2 números es " +d);
     }
 }
